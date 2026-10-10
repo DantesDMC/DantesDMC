@@ -16,7 +16,7 @@
   <a href="https://tu-portafolio.com">
     <img src="https://img.shields.io/badge/Portafolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio">
   </a>
-</p> 75565272
+</p> 
 
 ---
 
